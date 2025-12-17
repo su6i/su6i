@@ -24,7 +24,7 @@ I have experience optimizing processes (up to +500% speed and -99% cost reductio
 | Project | Description | Tech Stack |
 |:-------:|:------------|:-----------|
 | **[Telegram Video Automation Kit](https://github.com/su6i/telegram-video-automation)** | 📺 Automated pipeline to scrape, brand (intro generation), and upload videos to Telegram channels. | `Python` `Pyrogram` `FFmpeg` |
-| **[LinguaFlash](https://github.com/su6i/LinguaFlash)** | ⚡ Smart Chrome Extension for language learning. Features TTS pronunciation and vocabulary management. | `JavaScript` `Chrome API` `TTS` |
+| **[LinguaFlash](https://github.com/su6i/LinguaFlash)** | ⚡ Smart Chrome Extension for language learning. **[Available on Chrome Web Store](https://chromewebstore.google.com/detail/kbnggdhjaflioffhgjngoopojcmoaano)**. Features TTS pronunciation and vocabulary management. | `JavaScript` `Chrome API` `TTS` |
 | **[Multi-Agent Job Applier](https://github.com/su6i/Multi_Agent_Job_Applier)** | 🤖 Autonomous job application bot using CrewAI agents to find and apply for jobs. | `Python` `CrewAI` `LangChain` |
 | **[Instagram Downloader Bot](https://github.com/su6i/bot_instagram_yt_dlp)** | 📥 Telegram bot to download high-quality videos/reels from Instagram using yt-dlp. | `Python` `Aiogram` `yt-dlp` |
 | **[CROUS Housing Bot](https://github.com/su6i/crous_bot)** | 🏠 Automated scraper to find available student housing (CROUS) slots in France. | `Python` `Selenium` |
