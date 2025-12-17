@@ -6,7 +6,7 @@ I have experience optimizing processes (up to +500% speed and -99% cost reductio
 
 ## 🚀 About Me
 - 🔭 I’m currently finding a position in **Data Science / Machine Learning / Data Analysis**.
-- 🎓 I hold a **University Diploma in Big Data** and a **Master's in Computer Science**.
+- 🎓 I hold a **University Diploma: Big Data, Data Science and Risk Analysis in Python** and a **Master's in Computer Science**.
 - 💻 I have worked on projects involving **AI Automation**, **Multi-Agent Systems (CrewAI)**, and **Deep Learning**.
 - 💬 Ask me about **LLMs, OpenAI API, LangChain, or Python Data Science**.
 
