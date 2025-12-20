@@ -23,7 +23,7 @@ I have experience optimizing processes (up to +500% speed and -99% cost reductio
 
 | Project | Description | Tech Stack |
 |:-------:|:------------|:-----------|
-| **[Su6i Yar](https://github.com/su6i/su6i-yar)** | 🧠 AI-powered Telegram bot for Instagram downloads & fact-checking with 8-layer Gemini/DeepSeek fallback. Multi-language (FA/EN/FR). | `Python` `LangChain` `Gemini` |
+| **[Su6i Yar](https://github.com/su6i/su6i-yar)** | 🧠 AI-powered Telegram bot for Instagram downloads, fact-checking with 8-layer Gemini/DeepSeek fallback, and **Voice TTS** (translate + speak). Multi-language (FA/EN/FR/KO). | `Python` `LangChain` `Gemini` `edge-tts` |
 | **[LinguaFlash](https://github.com/su6i/LinguaFlash)** | ⚡ Smart Chrome Extension for language learning. **[Available on Chrome Web Store](https://chromewebstore.google.com/detail/kbnggdhjaflioffhgjngoopojcmoaano)**. Features TTS pronunciation and vocabulary management. | `JavaScript` `Chrome API` `TTS` |
 | **[Telegram Video Automation Kit](https://github.com/su6i/telegram-video-automation)** | 📺 Automated pipeline to scrape, brand (intro generation), and upload videos to Telegram channels. | `Python` `Pyrogram` `FFmpeg` |
 | **[Multi-Agent Job Applier](https://github.com/su6i/Multi_Agent_Job_Applier)** | 🤖 Autonomous job application bot using CrewAI agents to find and apply for jobs. | `Python` `CrewAI` `LangChain` |
