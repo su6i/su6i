@@ -1,4 +1,5 @@
-# Hi there, I'm Amir Shirali Pour! 👋
+# Hi there, I'm Amir Shirali Pour! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Su6i-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/su6i/)
+
 
 I am a **Data Scientist** with a Master’s degree in Computer Science from the University of Montpellier. I specialize in **Machine Learning**, **NLP**, and **Data Analysis** using LLMs.
 
@@ -27,7 +28,7 @@ I have experience optimizing processes (up to +500% speed and -99% cost reductio
 | **[LinguaFlash](https://github.com/su6i/LinguaFlash)** | ⚡ Smart Chrome Extension for language learning. **[Available on Chrome Web Store](https://chromewebstore.google.com/detail/kbnggdhjaflioffhgjngoopojcmoaano)**. Features TTS pronunciation and vocabulary management. | `JavaScript` `Chrome API` `TTS` |
 | **[Telegram Video Automation Kit](https://github.com/su6i/telegram-video-automation)** | 📺 Automated pipeline to scrape, brand (intro generation), and upload videos to Telegram channels. | `Python` `Pyrogram` `FFmpeg` |
 | **[Multi-Agent Job Applier](https://github.com/su6i/Multi_Agent_Job_Applier)** | 🤖 Autonomous job application bot using CrewAI agents to find and apply for jobs. | `Python` `CrewAI` `LangChain` |
-| **[CROUS Housing Bot](https://github.com/su6i/crous_bot)** | 🏠 Automated scraper to find available student housing (CROUS) slots in France. | `Python` `Selenium` |
+| **[Amir CLI](https://github.com/su6i/amir-cli)** | 🚀 All-in-one terminal assistant. Smart video compression, AI integration (Gemini/DeepSeek), system maintenance, and automation tools. | `Bash` `Python` `FFmpeg` |
 
 ## 🌐 Languages
 - **French**: Advanced
@@ -45,7 +46,8 @@ I have experience optimizing processes (up to +500% speed and -99% cost reductio
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
-![Su6i's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6i&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6i&layout=compact&theme=radical)
+![Su6i's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6i&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6i&layout=compact&theme=radical&count_private=true&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=su6i&theme=radical&hide_border=true)
 
 
