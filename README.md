@@ -1,4 +1,4 @@
-# Hi there, I'm Amir Shirali Pour! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Su6i-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/su6i/)
+# Hi there, I'm Amir Shirali Pour! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Su6i-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/su6i/)&nbsp;<a href="https://www.linkedin.com/in/su6i/"><img src="assets/linkedin_su6i.svg" height="20" alt="LinkedIn"></a>
 
 
 I am a **Data Scientist** with a Master’s degree in Computer Science from the University of Montpellier. I specialize in **Machine Learning**, **NLP**, and **Data Analysis** using LLMs.
