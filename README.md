@@ -1,4 +1,10 @@
-# Hi there, I'm Amir Shirali Pour! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Su6i-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/su6i/)&nbsp;<a href="https://www.linkedin.com/in/su6i/"><img src="assets/linkedin_su6i.svg" height="20" alt="LinkedIn"></a>
+<div align="center">
+  <h1>Hi there, I'm Amir Shirali Pour! 👋</h1>
+  
+  <a href="https://www.linkedin.com/in/su6i/">
+    <img src="assets/linkedin_su6i.svg" height="22" alt="LinkedIn">
+  </a>
+</div>
 
 
 I am a **Data Scientist** with a Master’s degree in Computer Science from the University of Montpellier. I specialize in **Machine Learning**, **NLP**, and **Data Analysis** using LLMs.
@@ -46,8 +52,12 @@ I have experience optimizing processes (up to +500% speed and -99% cost reductio
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
-![Su6i's GitHub stats](https://github-readme-stats.vercel.app/api?username=su6i&show_icons=true&theme=radical&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su6i&layout=compact&theme=radical&count_private=true&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com?user=su6i&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=su6i&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su6i&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=su6i&theme=radical&hide_border=true" height="180" alt="streak" />
+</div>
 
 
