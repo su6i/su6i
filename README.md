@@ -43,7 +43,7 @@ I have experience optimizing processes (up to +500% speed and -99% cost reductio
 
 ## 📫 Contact
 - 📍 **Location**: Montpellier, France
-- 📧 **Email**: [amir.shirali.pour81@gmail.com](mailto:amir.shirali.pour81@gmail.com)
+- 📧 **Email**: [sushiant60@gmail.com](mailto:sushiant60@gmail.com)
 - 💼 **LinkedIn**: [su6i](https://www.linkedin.com/in/su6i/)
 - 🐙 **GitHub**: [su6i](https://github.com/su6i)
 
