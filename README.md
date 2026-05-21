@@ -50,8 +50,8 @@ I build production-grade automation systems powered by LLMs — from multi-agent
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=su6i&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su6i&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats-seven-beta-65.vercel.app/api?username=su6i&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-seven-beta-65.vercel.app/api/top-langs/?username=su6i&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=su6i&theme=radical&hide_border=true" height="180" alt="streak" />
