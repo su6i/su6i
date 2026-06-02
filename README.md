@@ -13,6 +13,14 @@ I build production-grade automation systems powered by LLMs — from multi-agent
 
 **Open to remote roles** in AI Engineering, LLM Systems, or Automation.
 
+## 🏗 Architecture Focus: Automated Financial Video Pipeline
+
+I am actively building a fully automated end-to-end pipeline that transforms raw financial data into published video content using Machine Learning / Deep Learning / Reinforcement Learning and Multi-Agent Systems.
+
+<p align="center">
+  <img src="pipeline.svg" alt="Automated Financial Video Pipeline"/>
+</p>
+
 ## 🛠 Stack
 
 | Domain | Technologies |
