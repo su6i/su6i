@@ -18,7 +18,7 @@ I build production-grade automation systems powered by LLMs — from multi-agent
 I am actively building a fully automated end-to-end pipeline that transforms raw financial data into published video content using Machine Learning / Deep Learning / Reinforcement Learning and Multi-Agent Systems.
 
 <p align="center">
-  <img src="pipeline.svg" alt="Automated Financial Video Pipeline"/>
+  <img src="pipeline.svg?v=2" alt="Automated Financial Video Pipeline"/>
 </p>
 
 ## 🛠 Stack
