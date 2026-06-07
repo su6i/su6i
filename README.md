@@ -3,7 +3,11 @@
   <p><strong>AI Automation Engineer</strong> — LLM Pipelines · Multi-Agent Systems · Financial Market Automation</p>
 
   <a href="https://www.linkedin.com/in/su6i/">
-    <img src="assets/linkedin_su6i.svg" height="22" alt="LinkedIn">
+    <img src="assets/linkedin_badge.svg" width="340" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://amirshirali.com">
+    <img src="assets/portfolio_badge.svg" width="340" alt="Portfolio">
   </a>
 </div>
 
